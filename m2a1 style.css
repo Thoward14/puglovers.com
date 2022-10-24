@@ -1,0 +1,46 @@
+div {
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+font-size: 18px;
+
+}
+nav{
+    float: left;
+    width: 115px;
+    font-size: large !important;
+    
+}
+main{
+    margin-left: 200px;
+        
+}
+body{
+    background-color: tan;
+}
+header{
+    margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  font-size: larger;
+  background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+    clear: both;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    float:left
+}
+p {
+    text-align:unset
+}
+h2 {
+    font-size: 20px;
+}
